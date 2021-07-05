@@ -1,0 +1,4 @@
+source "https://rubygems.org"
+
+# Specify your gem's dependencies in Euros_Player_Guide.gemspec
+gemspec
